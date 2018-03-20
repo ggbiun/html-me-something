@@ -1,0 +1,11 @@
+/* CSS Style Sheet for HTML-me-something */
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;}
+table {border-spacing: 25px;
+        width: 581px;}
+th {text-align: left;}
+td {padding: 15px;}
+article {width: 581px}
+footer {font-style: italic;}
+#std_p {font-family: 'Courier New', Courier, monospace}
